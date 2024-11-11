@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erikg16
-- 👀 I’m interested in Homebridge, Homekit, HTML, CSS, JavaScript
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on Web-Developement
+- 👀 I’m interested in HCL, JAVA
+- 🌱 I’m currently learning Golang, HCL
+- 💞️ I’m looking to collaborate on every kind of developement
 - 📫 How to reach me erikg16@googlemail.com
 
 <!---
